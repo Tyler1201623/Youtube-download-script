@@ -1,0 +1,99 @@
+2025-02-19 05:43:33,689 - INFO - Application started
+2025-02-19 05:44:26,706 - INFO - Download attempt 1 for URL: https://www.youtube.com/watch?v=6rgStv12dwA&list=RD6rgStv12dwA&start_radio=1&ab_channel=BabyBashVEVO
+2025-02-19 05:52:26,418 - INFO - Application started
+2025-02-19 05:53:43,551 - INFO - Download attempt 1 for URL: https://www.youtube.com/watch?v=eiiU-Fky18s&list=RD6rgStv12dwA&index=3&ab_channel=FueledByRamen
+2025-02-19 05:53:46,115 - INFO - Video information retrieved - Title: Gym Class Heroes: Cupid's Chokehold ft. Patrick Stump [OFFICIAL VIDEO], Duration: 268s, Format: 396+140
+2025-02-19 05:53:48,539 - INFO - Download process finished successfully
+2025-02-19 05:53:48,816 - INFO - Download process finished successfully
+2025-02-19 05:53:49,016 - ERROR - Attempt 1 failed: [WinError 2] The system cannot find the file specified: "C:\\Users\\ty\\Desktop\\Best Programs I Created\\Youtube Download Script\\downloads\\Gym Class Heroes: Cupid's Chokehold ft. Patrick Stump [OFFICIAL VIDEO]_eiiU-Fky18s.mp4"
+2025-02-19 05:53:51,017 - INFO - Download attempt 2 for URL: https://www.youtube.com/watch?v=eiiU-Fky18s&list=RD6rgStv12dwA&index=3&ab_channel=FueledByRamen
+2025-02-19 05:53:53,328 - INFO - Video information retrieved - Title: Gym Class Heroes: Cupid's Chokehold ft. Patrick Stump [OFFICIAL VIDEO], Duration: 268s, Format: 396+140
+2025-02-19 05:53:55,246 - ERROR - Attempt 2 failed: [WinError 2] The system cannot find the file specified: "C:\\Users\\ty\\Desktop\\Best Programs I Created\\Youtube Download Script\\downloads\\Gym Class Heroes: Cupid's Chokehold ft. Patrick Stump [OFFICIAL VIDEO]_eiiU-Fky18s.mp4"
+2025-02-19 05:53:57,246 - INFO - Download attempt 3 for URL: https://www.youtube.com/watch?v=eiiU-Fky18s&list=RD6rgStv12dwA&index=3&ab_channel=FueledByRamen
+2025-02-19 05:53:59,573 - INFO - Video information retrieved - Title: Gym Class Heroes: Cupid's Chokehold ft. Patrick Stump [OFFICIAL VIDEO], Duration: 268s, Format: 396+140
+2025-02-19 05:54:01,343 - ERROR - Attempt 3 failed: [WinError 2] The system cannot find the file specified: "C:\\Users\\ty\\Desktop\\Best Programs I Created\\Youtube Download Script\\downloads\\Gym Class Heroes: Cupid's Chokehold ft. Patrick Stump [OFFICIAL VIDEO]_eiiU-Fky18s.mp4"
+2025-02-19 05:54:01,358 - ERROR - Download failed: [WinError 2] The system cannot find the file specified: "C:\\Users\\ty\\Desktop\\Best Programs I Created\\Youtube Download Script\\downloads\\Gym Class Heroes: Cupid's Chokehold ft. Patrick Stump [OFFICIAL VIDEO]_eiiU-Fky18s.mp4"
+2025-02-19 06:02:28,286 - INFO - Application started
+2025-02-19 06:07:15,100 - INFO - Application started
+2025-02-19 06:07:19,837 - INFO - Download attempt 1 for URL: https://www.youtube.com/watch?v=D4hAVemuQXY&list=RD6rgStv12dwA&index=5&ab_channel=EminemVEVO
+2025-02-19 06:07:22,535 - INFO - Starting download of: Eminem - Sing For The Moment (Official Music Video)
+2025-02-19 06:07:41,444 - INFO - Download finished, processing file...
+2025-02-19 06:07:41,856 - INFO - Download finished, processing file...
+2025-02-19 06:07:42,266 - INFO - Download completed successfully - Title: Eminem - Sing For The Moment (Official Music Video)
+2025-02-19 06:07:42,266 - INFO - File saved to: C:\Users\ty\Desktop\Best Programs I Created\Youtube Download Script\downloads\Eminem - Sing For The Moment (Official Music Video)_D4hAVemuQXY.mp4 (Size: 104.61 MB)
+2025-02-19 06:07:51,629 - INFO - Download process completed successfully for: Eminem - Sing For The Moment (Official Music Video)
+2025-02-19 06:08:09,419 - INFO - Download attempt 1 for URL: https://www.youtube.com/watch?v=RaCodgL9cvk&list=RD6rgStv12dwA&index=4&ab_channel=InterscopeRecords
+2025-02-19 06:08:11,653 - INFO - Starting download of: Drop It Like Its Hot by Snoop Dogg ft. Pharrell  Interscope
+2025-02-19 06:08:14,303 - INFO - Download finished, processing file...
+2025-02-19 06:08:14,620 - INFO - Download finished, processing file...
+2025-02-19 06:08:14,804 - INFO - Download completed successfully - Title: Drop It Like Its Hot by Snoop Dogg ft. Pharrell  Interscope
+2025-02-19 06:08:14,804 - INFO - File saved to: C:\Users\ty\Desktop\Best Programs I Created\Youtube Download Script\downloads\Drop It Like Its Hot by Snoop Dogg ft. Pharrell  Interscope_RaCodgL9cvk.mp4 (Size: 11.11 MB)
+2025-02-19 06:08:17,594 - INFO - Download process completed successfully for: Drop It Like Its Hot by Snoop Dogg ft. Pharrell  Interscope
+2025-02-19 06:08:27,263 - INFO - Download attempt 1 for URL: https://www.youtube.com/watch?v=_HZM0QiuUS8&list=RD6rgStv12dwA&index=2&ab_channel=GooGooDolls
+2025-02-19 06:08:29,544 - INFO - Starting download of: Goo Goo Dolls - Iris (Live in Buffalo, NY, 742004) [Official Video]
+2025-02-19 06:08:49,071 - INFO - Download finished, processing file...
+2025-02-19 06:08:49,437 - INFO - Download finished, processing file...
+2025-02-19 06:08:49,899 - INFO - Download completed successfully - Title: Goo Goo Dolls - Iris (Live in Buffalo, NY, 742004) [Official Video]
+2025-02-19 06:08:49,899 - INFO - File saved to: C:\Users\ty\Desktop\Best Programs I Created\Youtube Download Script\downloads\Goo Goo Dolls - Iris (Live in Buffalo, NY, 742004) [Official Video]__HZM0QiuUS8.mp4 (Size: 204.63 MB)
+2025-02-19 06:10:12,121 - INFO - Download process completed successfully for: Goo Goo Dolls - Iris (Live in Buffalo, NY, 742004) [Official Video]
+2025-02-19 06:10:27,908 - INFO - Application started
+2025-02-19 06:10:36,798 - INFO - Download attempt 1 for URL: https://www.youtube.com/watch?v=8HBcV0MtAQg&list=RD6rgStv12dwA&index=10&ab_channel=J.Cole-Topic
+2025-02-19 06:10:39,218 - INFO - Starting download of: No Role Modelz
+2025-02-19 06:10:51,084 - INFO - Download finished, processing file...
+2025-02-19 06:10:51,485 - INFO - Download finished, processing file...
+2025-02-19 06:10:51,753 - INFO - Download completed successfully - Title: No Role Modelz
+2025-02-19 06:10:51,753 - INFO - File saved to: C:\Users\ty\Desktop\Best Programs I Created\Youtube Download Script\downloads\No Role Modelz_8HBcV0MtAQg.mp4 (Size: 30.92 MB)
+2025-02-19 06:12:18,602 - INFO - Application started
+2025-02-19 06:12:37,939 - INFO - Download attempt 1 for URL: https://www.youtube.com/watch?v=B5YNiCfWC3A&list=RD6rgStv12dwA&index=12&ab_channel=KendrickLamarVEVO
+2025-02-19 06:12:40,549 - INFO - Starting download of: Kendrick Lamar - Swimming Pools (Drank)
+2025-02-19 06:12:52,219 - INFO - Download finished, processing file...
+2025-02-19 06:12:52,635 - INFO - Download finished, processing file...
+2025-02-19 06:12:52,873 - INFO - Download completed successfully - Title: Kendrick Lamar - Swimming Pools (Drank)
+2025-02-19 06:12:52,873 - INFO - File saved to: C:\Users\ty\Desktop\Best Programs I Created\Youtube Download Script\downloads\Kendrick Lamar - Swimming Pools (Drank)_B5YNiCfWC3A.mp4 (Size: 50.64 MB)
+2025-02-19 06:12:54,824 - INFO - Download process completed successfully for: Kendrick Lamar - Swimming Pools (Drank)
+2025-02-19 06:21:48,003 - INFO - Application started
+2025-02-19 06:21:54,525 - INFO - Download attempt 1 for URL: https://www.youtube.com/watch?v=sTMgX1PDGAE&list=RD6rgStv12dwA&index=13&ab_channel=Shaggy-Topic
+2025-02-19 06:21:57,084 - INFO - Starting download of: It Wasnt Me
+2025-02-19 06:21:59,858 - INFO - Download finished, processing file...
+2025-02-19 06:22:00,039 - INFO - Download finished, processing file...
+2025-02-19 06:22:00,228 - INFO - Download completed successfully - Title: It Wasnt Me
+2025-02-19 06:22:00,228 - INFO - File saved to: C:\Users\ty\Desktop\Best Programs I Created\Youtube Download Script\downloads\It Wasnt Me_sTMgX1PDGAE.mp4 (Size: 7.29 MB)
+2025-02-19 06:22:01,938 - INFO - Download process completed successfully for: It Wasnt Me
+2025-02-19 06:24:45,707 - INFO - Application started
+2025-02-19 06:24:50,232 - INFO - Download attempt 1 for URL: https://www.youtube.com/watch?v=1wYNFfgrXTI&list=RD6rgStv12dwA&index=15&ab_channel=EminemVEVO
+2025-02-19 06:24:52,933 - INFO - Starting download of: Eminem - When Im Gone (Official Music Video)
+2025-02-19 06:25:12,967 - INFO - Download finished, processing file...
+2025-02-19 06:25:13,397 - INFO - Download finished, processing file...
+2025-02-19 06:25:13,746 - INFO - Download completed successfully - Title: Eminem - When Im Gone (Official Music Video)
+2025-02-19 06:25:13,746 - INFO - File saved to: C:\Users\ty\Desktop\Best Programs I Created\Youtube Download Script\downloads\Eminem - When Im Gone (Official Music Video).mp4 (Size: 119.30 MB)
+2025-02-19 06:25:15,584 - INFO - Download process completed successfully for: Eminem - When Im Gone (Official Music Video)
+2025-02-19 06:27:18,905 - INFO - Application started with optimized settings
+2025-02-19 06:27:23,610 - INFO - Download attempt 1 for URL: https://www.youtube.com/watch?v=26ahkIGlBO0&list=RD6rgStv12dwA&index=16&ab_channel=WizKhalifa-Topic
+2025-02-19 06:27:24,907 - ERROR - Download attempt 1 failed: Could not retrieve video information
+2025-02-19 06:27:26,908 - INFO - Download attempt 2 for URL: https://www.youtube.com/watch?v=26ahkIGlBO0&list=RD6rgStv12dwA&index=16&ab_channel=WizKhalifa-Topic
+2025-02-19 06:27:28,168 - ERROR - Download attempt 2 failed: Could not retrieve video information
+2025-02-19 06:27:30,169 - INFO - Download attempt 3 for URL: https://www.youtube.com/watch?v=26ahkIGlBO0&list=RD6rgStv12dwA&index=16&ab_channel=WizKhalifa-Topic
+2025-02-19 06:27:31,319 - ERROR - Download attempt 3 failed: Could not retrieve video information
+2025-02-19 06:29:50,935 - INFO - Application started with optimized settings
+2025-02-19 06:29:53,722 - INFO - Download attempt 1 for URL: https://www.youtube.com/watch?v=26ahkIGlBO0&list=RD6rgStv12dwA&index=16&ab_channel=WizKhalifa-Topic
+2025-02-19 06:29:54,975 - ERROR - Download failed: Could not retrieve video information
+2025-02-19 06:31:01,251 - INFO - Download attempt 2 for URL: https://www.youtube.com/watch?v=26ahkIGlBO0&list=RD6rgStv12dwA&index=16&ab_channel=WizKhalifa-Topic
+2025-02-19 06:31:02,396 - INFO - Download attempt 3 for URL: https://www.youtube.com/watch?v=26ahkIGlBO0&list=RD6rgStv12dwA&index=16&ab_channel=WizKhalifa-Topic
+2025-02-19 06:33:04,183 - INFO - Application started
+2025-02-19 06:33:08,195 - INFO - Download attempt 1 for URL: https://www.youtube.com/watch?v=26ahkIGlBO0&list=RD6rgStv12dwA&index=16&ab_channel=WizKhalifa-Topic
+2025-02-19 06:33:10,865 - INFO - Starting download of: So High (feat. Ghost Loft)
+2025-02-19 06:33:20,097 - INFO - Download finished, processing file...
+2025-02-19 06:33:20,449 - INFO - Download finished, processing file...
+2025-02-19 06:33:20,677 - INFO - Download completed successfully - Title: So High (feat. Ghost Loft)
+2025-02-19 06:33:20,677 - INFO - File saved to: C:\Users\ty\Desktop\Best Programs I Created\Youtube Download Script\downloads\So High (feat. Ghost Loft).mp4 (Size: 15.03 MB)
+2025-02-19 06:33:21,905 - INFO - Download process completed successfully for: So High (feat. Ghost Loft)
+2025-02-19 06:37:06,828 - INFO - Application started
+2025-02-19 07:20:53,172 - INFO - Downloads will be saved to: C:\Users\ty\Desktop\Best Programs I Created\Youtube Download Script\downloads
+2025-02-19 07:20:53,179 - INFO - Application started
+2025-02-19 07:21:39,849 - INFO - Download attempt 1 for URL: https://www.youtube.com/watch?v=RiSfTyrvJlg&list=RD6rgStv12dwA&index=8&ab_channel=HinderVEVO
+2025-02-19 07:21:42,570 - INFO - Starting download of: Hinder - Lips Of An Angel (Official Music Video)
+2025-02-19 07:21:55,895 - INFO - Download finished, processing file...
+2025-02-19 07:21:56,064 - INFO - Download finished, processing file...
+2025-02-19 07:21:56,426 - INFO - Download completed successfully - Title: Hinder - Lips Of An Angel (Official Music Video)
+2025-02-19 07:21:56,426 - INFO - File saved to: C:\Users\ty\Desktop\Best Programs I Created\Youtube Download Script\downloads\Hinder - Lips Of An Angel (Official Music Video).mp4 (Size: 94.14 MB)
+2025-02-19 07:21:58,804 - INFO - Download process completed successfully for: Hinder - Lips Of An Angel (Official Music Video)
